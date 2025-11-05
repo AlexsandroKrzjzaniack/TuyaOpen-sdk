@@ -13,7 +13,6 @@ CMakeCache.txt
 /output
 /build
 tuyadb/
-/platform/*/
 __pycache__
 .build
 *.using_config

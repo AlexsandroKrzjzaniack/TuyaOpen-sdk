@@ -15,6 +15,7 @@
 #include "tuya_cloud_types.h"
 #include "netmgr.h"
 #include "tal_api.h"
+#include "tal_wifi.h"
 #include "tal_network.h"
 #include "tuya_transporter.h"
 #include "tcp_transporter.h"
@@ -92,7 +93,8 @@ OPERATE_RET tuya_tcp_transporter_connect(tuya_transporter_t t, const char *host,
 
     // socket bind random port
     NW_IP_S nw_ip = {0};
-    netmgr_conn_get(NETCONN_AUTO, NETCONN_CMD_IP, &nw_ip);
+    tal_wifi_get_ip(WF_STATION, &nw_ip);
+    //netmgr_conn_get(NETCONN_AUTO, NETCONN_CMD_IP, &nw_ip);
     tcp_transporter->config.bindAddr = tal_net_str2addr(nw_ip.ip);
 
     if ((tcp_transporter->config.bindPort || tcp_transporter->config.bindAddr) &&

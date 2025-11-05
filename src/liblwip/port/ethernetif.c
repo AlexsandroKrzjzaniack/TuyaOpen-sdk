@@ -37,6 +37,10 @@
 #define TUYA_PACKET_PRINT(pbuf)
 #endif
 
+#if LWIP_NETIF_HOSTNAME
+    extern char deviceCustomHostname[33];
+#endif
+
 /***********************************************************
 *************************variable define********************
 ***********************************************************/
@@ -271,11 +275,7 @@ err_t tuya_ethernetif_init(struct netif *netif)
     LWIP_ASSERT("netif != NULL", (netif != NULL));
 
 #if LWIP_NETIF_HOSTNAME
-    if (netif->name[1] == '0') {
-        netif->hostname = "lwip0";
-    } else if (netif->name[1] == '1') {
-        netif->hostname = "lwip1";
-    }
+    netif->hostname = deviceCustomHostname;
 #endif /* LWIP_NETIF_HOSTNAME */
 
     netif->output = etharp_output;

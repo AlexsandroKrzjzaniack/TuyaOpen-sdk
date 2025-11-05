@@ -16,7 +16,8 @@ set(LWIP lwip-2.1.2)
 # LIB_SRCS
 file(GLOB_RECURSE  LWIP_SRCS  
 "${MODULE_PATH}/${LWIP}/src/core/*.c"
-"${MODULE_PATH}/${LWIP}/src/api/*.c")
+"${MODULE_PATH}/${LWIP}/src/api/*.c"
+"${MODULE_PATH}/${LWIP}/src/apps/sntp/*.c")
 
 list(APPEND LWIP_SRCS ${MODULE_PATH}/${LWIP}/src/netif/ethernet.c)
 
