@@ -1250,8 +1250,7 @@ mqtt_set_inpub_callback(mqtt_client_t *client, mqtt_incoming_publish_cb_t pub_cb
  * Create a new MQTT client instance
  * @return Pointer to instance on success, NULL otherwise
  */
-mqtt_client_t *
-mqtt_client_new(void)
+mqtt_client_t *mqtt_client_new(void)
 {
   LWIP_ASSERT_CORE_LOCKED();
   return (mqtt_client_t *)mem_calloc(1, sizeof(mqtt_client_t));
