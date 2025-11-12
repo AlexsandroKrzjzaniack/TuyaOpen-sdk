@@ -18,5 +18,5 @@ Debug/./beken378/os/FreeRTOSv9.0.0/FreeRTOS/Source/tasks.marm.o: \
  beken378/os/FreeRTOSv9.0.0/FreeRTOS/Source/include/task.h \
  beken378/os/FreeRTOSv9.0.0/FreeRTOS/Source/include/StackMacros.h \
  beken378/common/include.h beken378/driver/include/uart_pub.h \
- /home/alexsandro/TuyaOpen/src/common/include/tuya_iot_config.h \
+ /home/alexsandro/TuyaOpen-sdk/src/common/include/tuya_iot_config.h \
  /home/alexsandro/desbravaProjects/firmware/bk7231n/sswp-fw/.build/include/tuya_kconfig.h

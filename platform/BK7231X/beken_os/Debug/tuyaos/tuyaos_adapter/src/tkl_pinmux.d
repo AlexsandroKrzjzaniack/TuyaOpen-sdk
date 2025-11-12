@@ -2,9 +2,9 @@ Debug/tuyaos/tuyaos_adapter/src/tkl_pinmux.o: \
  ../tuyaos/tuyaos_adapter/src/tkl_pinmux.c \
  ../tuyaos/tuyaos_adapter/include/pinmux/tkl_pinmux.h \
  ../tuyaos/tuyaos_adapter/include/utilities/include/tuya_cloud_types.h \
- /home/alexsandro/TuyaOpen/src/common/include/tuya_iot_config.h \
+ /home/alexsandro/TuyaOpen-sdk/src/common/include/tuya_iot_config.h \
  /home/alexsandro/desbravaProjects/firmware/bk7231n/sswp-fw/.build/include/tuya_kconfig.h \
- /home/alexsandro/TuyaOpen/src/common/include/tuya_error_code.h \
+ /home/alexsandro/TuyaOpen-sdk/src/common/include/tuya_error_code.h \
  beken378/func/user_driver/BkDriverGpio.h beken378/common/include.h \
  beken378/app/config/sys_config.h beken378/common/typedef.h \
  beken378/common/generic.h beken378/common/include.h \

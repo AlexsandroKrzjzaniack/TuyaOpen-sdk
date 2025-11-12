@@ -47,16 +47,16 @@ Debug/./beken378/func/wpa_supplicant-2.9/src/l2_packet/l2_packet_none.o: \
  beken378/driver/common/reg/_reg_dma.h \
  beken378/driver/common/reg/reg_access.h beken378/ip/common/co_list.h \
  beken378/driver/phy/phy.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/pbuf.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/opt.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/lwipopts.h \
- /home/alexsandro/TuyaOpen/src/common/include/tuya_iot_config.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/pbuf.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/opt.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/lwipopts.h \
+ /home/alexsandro/TuyaOpen-sdk/src/common/include/tuya_iot_config.h \
  /home/alexsandro/desbravaProjects/firmware/bk7231n/sswp-fw/.build/include/tuya_kconfig.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/init.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/debug.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/arch.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/arch/cc.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/arch/cpu.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/err.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/init.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/debug.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/arch.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/arch/cc.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/arch/cpu.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/err.h \
  beken378/ip/lmac/src/rwnx/rwnx.h beken378/ip/ke/ke_msg.h \
  beken378/ip/ke/ke_config.h beken378/driver/include/uart_pub.h

@@ -1,14 +1,14 @@
 Debug/./beken378/func/wpa_supplicant-2.9/src/crypto/crypto_mbedtls-ec.o: \
  beken378/func/wpa_supplicant-2.9/src/crypto/crypto_mbedtls-ec.c \
- /home/alexsandro/TuyaOpen/src/libtls/mbedtls-3.1.0/include/mbedtls/bignum.h \
- /home/alexsandro/TuyaOpen/src/libtls/mbedtls-3.1.0/include/mbedtls/private_access.h \
- /home/alexsandro/TuyaOpen/src/libtls/mbedtls-3.1.0/include/mbedtls/build_info.h \
- /home/alexsandro/TuyaOpen/src/libtls/port/tuya_tls_config.h \
- /home/alexsandro/TuyaOpen/src/common/include/tuya_iot_config.h \
+ /home/alexsandro/TuyaOpen-sdk/src/libtls/mbedtls-3.1.0/include/mbedtls/bignum.h \
+ /home/alexsandro/TuyaOpen-sdk/src/libtls/mbedtls-3.1.0/include/mbedtls/private_access.h \
+ /home/alexsandro/TuyaOpen-sdk/src/libtls/mbedtls-3.1.0/include/mbedtls/build_info.h \
+ /home/alexsandro/TuyaOpen-sdk/src/libtls/port/tuya_tls_config.h \
+ /home/alexsandro/TuyaOpen-sdk/src/common/include/tuya_iot_config.h \
  /home/alexsandro/desbravaProjects/firmware/bk7231n/sswp-fw/.build/include/tuya_kconfig.h \
  ../tuyaos/tuyaos_adapter/include/utilities/include/tuya_cloud_types.h \
- /home/alexsandro/TuyaOpen/src/common/include/tuya_error_code.h \
- /home/alexsandro/TuyaOpen/src/libtls/mbedtls-3.1.0/include/mbedtls/check_config.h \
+ /home/alexsandro/TuyaOpen-sdk/src/common/include/tuya_error_code.h \
+ /home/alexsandro/TuyaOpen-sdk/src/libtls/mbedtls-3.1.0/include/mbedtls/check_config.h \
  beken378/func/wpa_supplicant-2.9/src/utils/includes.h \
  beken378/func/wpa_supplicant-2.9/src/utils/build_config.h \
  beken378/app/config/sys_config.h beken378/ip/lmac/src/rwnx/rwnx_config.h \
@@ -45,23 +45,23 @@ Debug/./beken378/func/wpa_supplicant-2.9/src/crypto/crypto_mbedtls-ec.o: \
  beken378/func/wpa_supplicant-2.9/src/crypto/crypto.h \
  beken378/func/wpa_supplicant-2.9/src/crypto/sha256.h \
  beken378/func/wpa_supplicant-2.9/src/crypto/random.h \
- /home/alexsandro/TuyaOpen/src/tuya_cloud_service/tls/tuya_tls.h \
- /home/alexsandro/TuyaOpen/src/libtls/mbedtls-3.1.0/include/mbedtls/ecp.h \
- /home/alexsandro/TuyaOpen/src/libtls/mbedtls-3.1.0/include/mbedtls/entropy.h \
- /home/alexsandro/TuyaOpen/src/libtls/mbedtls-3.1.0/include/mbedtls/sha256.h \
- /home/alexsandro/TuyaOpen/src/libtls/mbedtls-3.1.0/include/mbedtls/threading.h \
- /home/alexsandro/TuyaOpen/src/libtls/port/threading_alt.h \
- /home/alexsandro/TuyaOpen/src/tal_system/include/tal_mutex.h \
- /home/alexsandro/TuyaOpen/src/libtls/mbedtls-3.1.0/include/mbedtls/ctr_drbg.h \
- /home/alexsandro/TuyaOpen/src/libtls/mbedtls-3.1.0/include/mbedtls/aes.h \
- /home/alexsandro/TuyaOpen/src/libtls/mbedtls-3.1.0/include/mbedtls/platform_util.h \
- /home/alexsandro/TuyaOpen/src/libtls/mbedtls-3.1.0/include/mbedtls/pk.h \
- /home/alexsandro/TuyaOpen/src/libtls/mbedtls-3.1.0/include/mbedtls/md.h \
- /home/alexsandro/TuyaOpen/src/libtls/mbedtls-3.1.0/include/mbedtls/rsa.h \
- /home/alexsandro/TuyaOpen/src/libtls/mbedtls-3.1.0/include/mbedtls/ecdsa.h \
- /home/alexsandro/TuyaOpen/src/libtls/mbedtls-3.1.0/include/mbedtls/ecdh.h \
- /home/alexsandro/TuyaOpen/src/libtls/mbedtls-3.1.0/include/mbedtls/asn1write.h \
- /home/alexsandro/TuyaOpen/src/libtls/mbedtls-3.1.0/include/mbedtls/asn1.h \
- /home/alexsandro/TuyaOpen/src/libtls/mbedtls-3.1.0/include/mbedtls/error.h \
- /home/alexsandro/TuyaOpen/src/libtls/mbedtls-3.1.0/include/mbedtls/oid.h \
- /home/alexsandro/TuyaOpen/src/libtls/mbedtls-3.1.0/include/mbedtls/cipher.h
+ /home/alexsandro/TuyaOpen-sdk/src/tuya_cloud_service/tls/tuya_tls.h \
+ /home/alexsandro/TuyaOpen-sdk/src/libtls/mbedtls-3.1.0/include/mbedtls/ecp.h \
+ /home/alexsandro/TuyaOpen-sdk/src/libtls/mbedtls-3.1.0/include/mbedtls/entropy.h \
+ /home/alexsandro/TuyaOpen-sdk/src/libtls/mbedtls-3.1.0/include/mbedtls/sha256.h \
+ /home/alexsandro/TuyaOpen-sdk/src/libtls/mbedtls-3.1.0/include/mbedtls/threading.h \
+ /home/alexsandro/TuyaOpen-sdk/src/libtls/port/threading_alt.h \
+ /home/alexsandro/TuyaOpen-sdk/src/tal_system/include/tal_mutex.h \
+ /home/alexsandro/TuyaOpen-sdk/src/libtls/mbedtls-3.1.0/include/mbedtls/ctr_drbg.h \
+ /home/alexsandro/TuyaOpen-sdk/src/libtls/mbedtls-3.1.0/include/mbedtls/aes.h \
+ /home/alexsandro/TuyaOpen-sdk/src/libtls/mbedtls-3.1.0/include/mbedtls/platform_util.h \
+ /home/alexsandro/TuyaOpen-sdk/src/libtls/mbedtls-3.1.0/include/mbedtls/pk.h \
+ /home/alexsandro/TuyaOpen-sdk/src/libtls/mbedtls-3.1.0/include/mbedtls/md.h \
+ /home/alexsandro/TuyaOpen-sdk/src/libtls/mbedtls-3.1.0/include/mbedtls/rsa.h \
+ /home/alexsandro/TuyaOpen-sdk/src/libtls/mbedtls-3.1.0/include/mbedtls/ecdsa.h \
+ /home/alexsandro/TuyaOpen-sdk/src/libtls/mbedtls-3.1.0/include/mbedtls/ecdh.h \
+ /home/alexsandro/TuyaOpen-sdk/src/libtls/mbedtls-3.1.0/include/mbedtls/asn1write.h \
+ /home/alexsandro/TuyaOpen-sdk/src/libtls/mbedtls-3.1.0/include/mbedtls/asn1.h \
+ /home/alexsandro/TuyaOpen-sdk/src/libtls/mbedtls-3.1.0/include/mbedtls/error.h \
+ /home/alexsandro/TuyaOpen-sdk/src/libtls/mbedtls-3.1.0/include/mbedtls/oid.h \
+ /home/alexsandro/TuyaOpen-sdk/src/libtls/mbedtls-3.1.0/include/mbedtls/cipher.h

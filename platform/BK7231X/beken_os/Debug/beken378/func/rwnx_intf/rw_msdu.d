@@ -17,17 +17,17 @@ Debug/./beken378/func/rwnx_intf/rw_msdu.o: \
  beken378/driver/common/reg/_reg_dma.h \
  beken378/driver/common/reg/reg_access.h beken378/ip/common/co_list.h \
  beken378/driver/phy/phy.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/pbuf.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/opt.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/lwipopts.h \
- /home/alexsandro/TuyaOpen/src/common/include/tuya_iot_config.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/pbuf.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/opt.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/lwipopts.h \
+ /home/alexsandro/TuyaOpen-sdk/src/common/include/tuya_iot_config.h \
  /home/alexsandro/desbravaProjects/firmware/bk7231n/sswp-fw/.build/include/tuya_kconfig.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/init.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/debug.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/arch.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/arch/cc.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/arch/cpu.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/err.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/init.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/debug.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/arch.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/arch/cc.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/arch/cpu.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/err.h \
  beken378/os/include/rtos_pub.h beken378/os/FreeRTOSv9.0.0/rtos_error.h \
  beken378/ip/lmac/src/rwnx/rwnx.h beken378/ip/ke/ke_msg.h \
  beken378/ip/ke/ke_config.h beken378/func/include/rw_pub.h \
@@ -49,18 +49,18 @@ Debug/./beken378/func/rwnx_intf/rw_msdu.o: \
  beken378/ip/lmac/src/mm/mm_timer.h beken378/ip/umac/src/me/me_mic.h \
  beken378/ip/lmac/src/rx/rx_swdesc.h beken378/ip/umac/src/bam/bam.h \
  beken378/ip/lmac/src/mm/mm.h beken378/ip/lmac/src/mm/mm_task.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/netif.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/ip_addr.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/def.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/ip4_addr.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/ip6_addr.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/def.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/stats.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/mem.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/memp.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/priv/memp_std.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/priv/memp_priv.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/priv/mem_priv.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/netif.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/ip_addr.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/def.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/ip4_addr.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/ip6_addr.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/def.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/stats.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/mem.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/memp.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/priv/memp_std.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/priv/memp_priv.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/priv/mem_priv.h \
  beken378/ip/lmac/src/vif/vif_mgmt.h beken378/ip/lmac/src/chan/chan.h \
  beken378/ip/lmac/src/tx/txl/txl_frame.h \
  beken378/ip/lmac/src/tx/txl/txl_buffer.h \
@@ -87,12 +87,12 @@ Debug/./beken378/func/rwnx_intf/rw_msdu.o: \
  beken378/os/FreeRTOSv9.0.0/FreeRTOS/Source/include/task.h \
  beken378/os/FreeRTOSv9.0.0/FreeRTOS/Source/include/queue.h \
  beken378/ip/umac/src/txu/txu_cntrl.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/prot/ip4.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/arch/bpstruct.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/arch/epstruct.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/prot/ip6.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/prot/ethernet.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/prot/ieee.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/prot/ip4.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/arch/bpstruct.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/arch/epstruct.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/prot/ip6.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/prot/ethernet.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/prot/ieee.h \
  beken378/driver/include/arm_arch.h \
  beken378/driver/include/general_dma_pub.h \
  beken378/app/config/param_config.h \
@@ -105,7 +105,7 @@ Debug/./beken378/func/rwnx_intf/rw_msdu.o: \
  beken378/func/include/manual_ps_pub.h \
  ../tuyaos/tuyaos_adapter/include/network/tkl_lwip.h \
  ../tuyaos/tuyaos_adapter/include/utilities/include/tuya_cloud_types.h \
- /home/alexsandro/TuyaOpen/src/common/include/tuya_error_code.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/sockets.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/inet.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/errno.h
+ /home/alexsandro/TuyaOpen-sdk/src/common/include/tuya_error_code.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/sockets.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/inet.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/errno.h

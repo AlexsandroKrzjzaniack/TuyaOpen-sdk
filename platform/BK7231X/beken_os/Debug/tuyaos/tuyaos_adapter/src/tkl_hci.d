@@ -2,9 +2,9 @@ Debug/tuyaos/tuyaos_adapter/src/tkl_hci.o: \
  ../tuyaos/tuyaos_adapter/src/tkl_hci.c \
  ../tuyaos/tuyaos_adapter/include/hci/tkl_hci.h \
  ../tuyaos/tuyaos_adapter/include/utilities/include/tuya_cloud_types.h \
- /home/alexsandro/TuyaOpen/src/common/include/tuya_iot_config.h \
+ /home/alexsandro/TuyaOpen-sdk/src/common/include/tuya_iot_config.h \
  /home/alexsandro/desbravaProjects/firmware/bk7231n/sswp-fw/.build/include/tuya_kconfig.h \
- /home/alexsandro/TuyaOpen/src/common/include/tuya_error_code.h \
+ /home/alexsandro/TuyaOpen-sdk/src/common/include/tuya_error_code.h \
  beken378/driver/ble_5_x_rw/ble_lib/ip/hci/api/hci.h \
  beken378/os/include/rtos_pub.h beken378/common/include.h \
  beken378/app/config/sys_config.h beken378/common/typedef.h \

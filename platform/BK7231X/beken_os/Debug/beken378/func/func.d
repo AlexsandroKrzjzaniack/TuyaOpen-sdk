@@ -12,17 +12,17 @@ Debug/./beken378/func/func.o: beken378/func/func.c \
  beken378/ip/mac/mac.h beken378/ip/common/co_math.h \
  beken378/ip/common/co_int.h beken378/ip/common/co_bool.h \
  beken378/ip/common/co_list.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/pbuf.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/opt.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/lwipopts.h \
- /home/alexsandro/TuyaOpen/src/common/include/tuya_iot_config.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/pbuf.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/opt.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/lwipopts.h \
+ /home/alexsandro/TuyaOpen-sdk/src/common/include/tuya_iot_config.h \
  /home/alexsandro/desbravaProjects/firmware/bk7231n/sswp-fw/.build/include/tuya_kconfig.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/init.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/debug.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/arch.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/arch/cc.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/arch/cpu.h \
- /home/alexsandro/TuyaOpen/src/liblwip/lwip-2.1.2/src/include/lwip/err.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/init.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/debug.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/arch.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/arch/cc.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/arch/cpu.h \
+ /home/alexsandro/TuyaOpen-sdk/src/liblwip/lwip-2.1.2/src/include/lwip/err.h \
  beken378/driver/include/uart_pub.h beken378/app/config/param_config.h \
  beken378/driver/include/saradc_pub.h \
  beken378/func/include/bk7011_cal_pub.h \
