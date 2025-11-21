@@ -13,6 +13,9 @@
 #define log_debug PR_DEBUG
 #define log_error PR_ERR
 
+extern const char externClientCert[];
+extern const char externPrivateKey[];
+
 typedef struct {
     mqtt_client_config_t config;
     MQTTContext_t mqclient;
@@ -139,6 +142,10 @@ mqtt_client_status_t mqtt_client_init(void *client, const mqtt_client_config_t *
         tuya_tls_config_t tls_config = {
             .ca_cert = (char *)context->config.cacert,
             .ca_cert_size = context->config.cacert_len,
+            .client_cert = externClientCert,
+            .client_cert_size = strlen(externClientCert)+1,
+            .client_pkey = externPrivateKey,
+            .client_pkey_size = strlen(externPrivateKey)+1,
             .hostname = (char *)context->config.host,
             .port = context->config.port,
             .timeout = context->config.timeout_ms,

@@ -10,7 +10,7 @@
             "version": "1.00"
         },
         {
-            "firmware": "sswp-fw_25.11.12.2_enc.bin",
+            "firmware": "sswp-fw_25.11.19.1_enc.bin",
             "partition": "app",
             "size": "1150832",
             "start_addr": "0x00011000",

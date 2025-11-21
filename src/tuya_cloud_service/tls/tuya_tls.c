@@ -318,12 +318,20 @@ static void mbedtls_cert_pkey_free(tuya_tls_hander p_tls_handler)
 
     PR_DEBUG("mbedtls_cert_pkey_free.");
 
-    if (config->ca_cert) {
-        mbedtls_x509_crt_free(&tls_context->cacert);
-    } else if (config->client_cert && config->client_pkey) {
+    // if (config->ca_cert) {
+    //     mbedtls_x509_crt_free(&tls_context->cacert);
+    // } else if (config->client_cert && config->client_pkey) {
+    //     mbedtls_x509_crt_free(&tls_context->cacert);
+    //     mbedtls_x509_crt_free(&tls_context->client_cert);
+    //     mbedtls_pk_free(&tls_context->client_pkey);
+    // }
+
+    if(config->client_cert && config->client_pkey) {
         mbedtls_x509_crt_free(&tls_context->cacert);
         mbedtls_x509_crt_free(&tls_context->client_cert);
         mbedtls_pk_free(&tls_context->client_pkey);
+    } else {
+        mbedtls_x509_crt_free(&tls_context->cacert);
     }
 }
 

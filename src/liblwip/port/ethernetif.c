@@ -38,7 +38,7 @@
 #endif
 
 #if LWIP_NETIF_HOSTNAME
-    extern char deviceCustomHostname[33];
+    extern char deviceCustomHostname[45];
 #endif
 
 /***********************************************************
